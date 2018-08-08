@@ -11,41 +11,30 @@ const Work = () => (
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
-          <h3>Awesome Design Studio</h3>
+          <h3>Mad Mobile</h3>
           <p className="info">
-            Senior UX Designer
+            Javascript Developer
             <span>&bull;</span>
-            <em className="date">March 2010 - Present</em>
+            <em className="date">January 2018 - Present</em>
           </p>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-            commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-            Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-            aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-            mollis pretium.
+            Currently building a react native ordering app and lead developer on the current website.
           </p>
         </div>
       </div>
 
       <div className="row item">
         <div className="twelve columns">
-          <h3>Super Cool Studio</h3>
+          <h3>Daniels Corporation</h3>
           <p className="info">
-            UX Designer
+            Fullstack Developer
             <span>&bull;</span>
-            <em className="date">March 2007 - February 2010</em>
+            <em className="date">March 2017 - December 2017</em>
           </p>
 
           <p>
-            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
-            velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-            auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-            Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-            Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a
-            ornare odio. Sed non mauris vitae erat
+            Built and managed ecommerce sites for a select group of family owned companies. Worked on the migration of a Rails 3 site to Spree Ecommerce framework (built with Ruby on Rails) while maintaining a legacy Coldfusion site. I also managed the Ubuntu and Microsoft Servers, and worked closing with the marketing team to optimize our search engine results.
           </p>
         </div>
       </div>

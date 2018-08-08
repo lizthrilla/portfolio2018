@@ -11,41 +11,50 @@ const Education = () => (
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
-          <h3>University of Life</h3>
+          <h3>The Iron Yard</h3>
           <p className="info">
-            Master in Graphic Design
+            Certificate in Front-End Engineering
             <span>&bull;</span>
-            <em className="date">April 2007</em>
+            <em className="date">February 2017</em>
           </p>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-            commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-            penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-            Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-            Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-            aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-            mollis pretium.
+            Front-End Engineering focuses on creating experiences in web browser that users see and interact with. The discipline covers a broad area, from web design principles to complex JavaScript applications that manage data. The tools used in front-end engineering are ubiquitous--no matter the technology used on the back end, front-enders are responsible for delivering the experience and data to the person using the web application.
           </p>
         </div>
       </div>
 
       <div className="row item">
         <div className="twelve columns">
-          <h3>School of Cool Designers</h3>
+          <h3>University of Stirling</h3>
           <p className="info">
-            B.A. Degree in Graphic Design
+            Master of Philosophy - Literature and Languages
             <span>&bull;</span>
-            <em className="date">March 2003</em>
+            <em className="date">May 2017</em>
           </p>
 
           <p>
-            This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
-            velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-            auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-            Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-            Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a
-            ornare odio. Sed non mauris vitae erat
+            Thesis: By evaluating theories surrounding the female gaze, flanerie, and tourism, this thesis discusses the representation of female tourists in Paris and Tuscany. Specific films addressed in this thesis: Les Vampires ( Louis Feuillade 1915), Cleo 5 a 7 (Agnes Varda 1962), Funny Face (Stanley Donan 1957), Midnight in Paris (Woody Allen 2011), A Room with a View (James Ivory 1985), and Stealing Beauty (Bernardo Bertolucci 1996).  Specific theorists addressed in this thesis: Charles Baudelaire, Walter Benjamin, Susan Bordo, Giulianna Bruno, Vanessa Schwartz, Mary Ann Doanne, Laura Mulvey, Ann Friedberg and Elizabeth Ezra and Dean MacCannell.
+          </p>
+          <p>
+            Supervisor: Dr Elizabeth Ezra
+          </p>
+        </div>
+      </div>
+      <div className="row item">
+        <div className="twelve columns">
+          <h3>University of Glasgow</h3>
+          <p className="info">
+            Master of Letters - European Cinema - with Distinction
+            <span>&bull;</span>
+            <em className="date">May 2009</em>
+          </p>
+
+          <p>
+            Dissertation: Queering the Femme Fatale; looked at the role of transsexual femme fatales in the films of Pedro Almodovar from the 1980s to Bad Education (2004).
+          </p>
+          <p>
+            Modules in French Spanish, Czech and Polish cinema.
           </p>
         </div>
       </div>

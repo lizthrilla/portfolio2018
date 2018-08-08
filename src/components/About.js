@@ -1,7 +1,7 @@
 import React from "react";
 import { FaCloudDownload } from "react-icons/lib/fa";
 
-import profilePic from "../assets/images/profilepic.jpg";
+import profilePic from "../assets/images/headshot.jpeg";
 
 const About = () => (
   <section id="about">
@@ -12,36 +12,20 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-          ab illo inventore veritatis et quasi architecto beatae vitae dicta
-          sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-          aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos
-          qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
-          dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed
-          quia non numquam eius modi tempora incidunt ut labore et dolore magnam
-          aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
-          exercitationem ullam corporis suscipit laboriosam.
+          I am a recovering film academic turned javascript developer and the current Tampa Bay City Organizer for Tech Ladies and co-organizer of Suncoast Developers Guild Jr, which provides free kids coding classes. I finished the front end engineering program at The Iron Yard in February 2017 and I am passionate about web accessibility, over analyzing movies, my cats, and bellydance.
         </p>
         <div className="row">
           <div className="columns contact-details">
             <h2>Contact Details</h2>
             <p className="address">
-              <span>Jonathan Doe</span>
+              <span>Liz Tiller</span>
               <br />
-              <span>
-                1600 Amphitheatre Parkway
-                <br /> Mountain View, CA 94043 US
-              </span>
-              <br />
-              <span>(123)456-7890</span>
-              <br />
-              <span>anyone@website.com</span>
+              <span>elizabeth.tiller@gmail.com</span>
             </p>
           </div>
           <div className="columns download">
             <p>
-              <a href="#" className="button">
+              <a href="https://docs.google.com/document/d/1FRpyAiv8_Us_rYCOoPhFNJ7Fer7E2hJVHkhzYWKea7g/edit?usp=sharing" className="button">
                 <FaCloudDownload /> Download Resume
               </a>
             </p>

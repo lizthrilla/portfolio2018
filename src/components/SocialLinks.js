@@ -1,40 +1,34 @@
 import React from "react";
 import {
-  FaFacebook,
+  FaEnvelope,
   FaGithub,
-  FaGooglePlus,
-  FaInstagram,
-  FaTwitter
+  FaTwitter,
+  FaLinkedin
 } from "react-icons/lib/fa";
 // https://gorangajic.github.io/react-icons/fa.html
 
 const SocialLinks = () => (
   <ul className="social">
+  <li>
+    <a href="https://www.linkedin.com/in/elizabethtiller/">
+      <FaLinkedin />
+    </a>
+  </li>
     <li>
-      <a href="#">
-        <FaFacebook />
-      </a>
-    </li>
-    <li>
-      <a href="#">
+      <a href="https://twitter.com/liztiller">
         <FaTwitter />
       </a>
     </li>
     <li>
-      <a href="#">
-        <FaGooglePlus />
-      </a>
-    </li>
-    <li>
-      <a href="#">
-        <FaInstagram />
-      </a>
-    </li>
-    <li>
-      <a href="#">
+      <a href="https://github.com/lizthrilla">
         <FaGithub />
       </a>
     </li>
+    <li>
+      <a href="mailto:elizabeth.tiller@gmail.com?Subject=Hello%20again">
+        <FaEnvelope />
+      </a>
+  </li>
   </ul>
 );
 

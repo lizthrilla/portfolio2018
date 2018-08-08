@@ -9,42 +9,37 @@ const Skills = () => (
     </div>
 
     <div className="nine columns main-col">
-      <p>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-        illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-        explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-        odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-        voluptatem sequi nesciunt.
-      </p>
-
       <div className="bars">
         <ul className="skills">
           <li>
-            <span className="bar-expand photoshop" />
-            <em>Photoshop</em>
+            <span className="bar-expand react" />
+            <em>React</em>
           </li>
           <li>
-            <span className="bar-expand illustrator" />
-            <em>Illustrator</em>
+            <span className="bar-expand reactNative" />
+            <em>React Native</em>
+          </li>
+          <li>
+            <span className="bar-expand javascript" />
+            <em>Javascript</em>
+          </li>
+          <li>
+            <span className="bar-expand html5" />
+            <em>CSS/HTML5</em>
           </li>
           <li>
             <span className="bar-expand wordpress" />
             <em>Wordpress</em>
           </li>
           <li>
-            <span className="bar-expand css" />
-            <em>CSS</em>
-          </li>
-          <li>
-            <span className="bar-expand html5" />
-            <em>HTML5</em>
-          </li>
-          <li>
-            <span className="bar-expand nodejs" />
-            <em>Nodejs</em>
+            <span className="bar-expand rollerskating" />
+            <em>Roller Skating</em>
           </li>
         </ul>
+        <p>
+          Other skills include: Ruby, Rails, Coldfusion, SQL, Ubuntu and Microsoft servers and basic photoshop skills.
+        </p>
+
       </div>
     </div>
   </div>
