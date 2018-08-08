@@ -1,20 +1,16 @@
 import React from "react";
 import { FaPlus, FaTag } from "react-icons/lib/fa";
 
-import Coffee from "../assets/images/portfolio/coffee.jpg";
-import Console from "../assets/images/portfolio/console.jpg";
-import Judah from "../assets/images/portfolio/judah.jpg";
-import IntoTheLight from "../assets/images/portfolio/into-the-light.jpg";
-import Farmerboy from "../assets/images/portfolio/farmerboy.jpg";
-import Girl from "../assets/images/portfolio/girl.jpg";
-import Origami from "../assets/images/portfolio/origami.jpg";
-import Retrocam from "../assets/images/portfolio/retrocam.jpg";
+import Ryma from "../assets/images/portfolio/ryma.png";
+import Memory from "../assets/images/portfolio/cats-memory.png";
+import Rain from "../assets/images/portfolio/rain.png";
+import Tarot from "../assets/images/portfolio/tarot.png";
 
 const Portfolio = () => (
   <section id="portfolio">
     <div className="row">
       <div className="twelve columns collapsed">
-        <h1>Check Out Some of My Works.</h1>
+        <h1>Check Out Some of My Work.</h1>
 
         <div
           id="portfolio-wrapper"
@@ -22,12 +18,13 @@ const Portfolio = () => (
         >
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-01" title="">
-                <img alt="" src={Coffee} />
+              <a href="https://ryma.herokuapp.com/" title="Ryma - Hospitality Hackathon">
+                <img alt="" src={Ryma} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Coffee</h5>
-                    <p>Illustrration</p>
+                    <h5>Ryma</h5>
+                    <p>Hospitality Hackathon 2017</p>
+                    <p>React and Rails app</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -39,12 +36,15 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-02" title="">
-                <img alt="" src={Console} />
+              <a href="http://tarot.lizthrilla.surge.sh/" title="Tarot with Sybil">
+                <img alt="" src={Tarot} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Console</h5>
-                    <p>Web Development</p>
+                    <h5>Tarot with Sybil</h5>
+                    <p>TIY Final Project</p>
+                    <p> 
+                      Using react I created atarot card game as a promotional tool for a paranormal mystery manuscript. Rather than use an API, I manipulated the data through a javascript file.
+                    </p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -56,12 +56,13 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-03" title="">
-                <img alt="" src={Judah} />
+              <a href="http://rain.lizthrilla.surge.sh" title="Make it Rain">
+                <img alt="" src={Rain} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Judah</h5>
-                    <p>Webdesign</p>
+                    <h5>Make it Rain</h5>
+                    <p>TIY Project</p>
+                    <p>Vanilla JS, CSS, and HTML</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -73,80 +74,13 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="#modal-04" title="">
-                <img alt="" src={IntoTheLight} />
+              <a href="http://memory.lizthrilla.surge.sh" title="Memory">
+                <img alt="" src={Memory} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Into The Light</h5>
-                    <p>Photography</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-05" title="">
-                <img alt="" src={Farmerboy} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Farmer Boy</h5>
-                    <p>Branding</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-06" title="">
-                <img alt="" src={Girl} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Girl</h5>
-                    <p>Photography</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-07" title="">
-                <img alt="" src={Origami} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Origami</h5>
-                    <p>Illustrration</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <FaPlus />
-                </div>
-              </a>
-            </div>
-          </div>
-
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <a href="#modal-08" title="">
-                <img alt="" src={Retrocam} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h5>Retrocam</h5>
-                    <p>Web Development</p>
+                    <h5>Memory</h5>
+                    <p>TIY Project</p>
+                    <p>A simple React memory game.</p>
                   </div>
                 </div>
                 <div className="link-icon">
