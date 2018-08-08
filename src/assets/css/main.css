@@ -138,12 +138,12 @@ html {
 }
 
 body {
-   background: #fff;
+   background: #1db5cb;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+    color: #838C95;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -460,7 +460,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+   background: #1db5cb;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
@@ -828,7 +828,7 @@ properly.
 /* ------------------------------------------------------------------ */
 
 body {
-  background: #0f0f0f;
+  background: #1db5cb;
 }
 
 /* ------------------------------------------------------------------ */
@@ -840,9 +840,7 @@ header {
   height: 800px;
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/header-background.jpg) no-repeat top center;
-  background-size: cover !important;
-  -webkit-background-size: cover !important;
+  background: #1db5cb;
   text-align: center;
   overflow: hidden;
 }
@@ -875,14 +873,15 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
   font: 18px/1.9em "librebaskerville-regular", serif;
-  color: #a8a8a8;
+  color: #fff;
+  font-weight: 600;
   margin: 0 auto;
   width: 70%;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-  color: #fff;
+  color: #fedd32;
 }
 header .banner-text hr {
   width: 60%;
@@ -907,7 +906,7 @@ header .social li a {
   color: #fff;
 }
 header .social li a:hover {
-  color: #11abb0;
+  color: #fedd32;
 }
 
 /* scrolldown link */
@@ -931,7 +930,7 @@ header .scrolldown a {
   transition: all 0.3s ease-in-out;
 }
 header .scrolldown a:hover {
-  color: #11abb0;
+  color: #fedd32;
 }
 
 /* primary navigation
@@ -1001,9 +1000,13 @@ ul#nav li a {
 ul#nav li a:active {
   background-color: transparent !important;
 }
-ul#nav li.current a {
-  color: #f06000;
+
+ul#nav li a:hover {
+  color: #fedd32;
 }
+/* ul#nav li.current a {
+  color: #fedd32;
+} */
 
 /* ------------------------------------------------------------------ */
 /* c. About Section
@@ -1022,7 +1025,7 @@ ul#nav li.current a {
 }
 #about a:hover,
 #about a:focus {
-  color: #11abb0;
+  color: #fedd32;
 }
 
 #about h2 {
@@ -1076,7 +1079,7 @@ ul#nav li.current a {
 
 #resume a,
 #resume a:visited {
-  color: #11abb0;
+  color: #1db5cb;
 }
 #resume a:hover,
 #resume a:focus {
@@ -1089,7 +1092,7 @@ ul#nav li.current a {
   letter-spacing: 1px;
 }
 #resume h1 span {
-  border-bottom: 3px solid #11abb0;
+  border-bottom: 3px solid #1db5cb;
   padding-bottom: 6px;
 }
 #resume h3 {
@@ -1141,7 +1144,7 @@ ul#nav li.current a {
 .bars li {
   position: relative;
   margin-bottom: 60px;
-  background: #ccc;
+  background: #fedd32;
   height: 42px;
   border-radius: 3px;
 }
@@ -1161,7 +1164,7 @@ ul#nav li.current a {
 
   margin: 0;
   padding-right: 24px;
-  background: #313131;
+  background: #1db5cb;
   display: inline-block;
   height: 42px;
   line-height: 42px;
@@ -1735,7 +1738,7 @@ call-to-action .button {
 
 #contact a,
 #contact a:visited {
-  color: #11abb0;
+  color: #1db5cb;
 }
 #contact a:hover,
 #contact a:focus {
@@ -1805,7 +1808,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
   color: #fff;
-  background-color: #11abb0;
+  background-color: #1db5cb;
 }
 #contact button.submit {
   text-transform: uppercase;
@@ -1824,7 +1827,7 @@ call-to-action .button {
   background: #fff;
 }
 #contact span.required {
-  color: #11abb0;
+  color: #1db5cb;
   font-size: 13px;
 }
 #message-warning,
@@ -1840,7 +1843,7 @@ call-to-action .button {
   color: #d72828;
 }
 #message-success {
-  color: #11abb0;
+  color: #1db5cb;
 }
 
 #message-warning i,
@@ -1879,7 +1882,7 @@ call-to-action .button {
 footer {
   padding-top: 48px;
   margin-bottom: 48px;
-  color: #303030;
+  color: #fedd32;
   /* font-size: 14px; */
   text-align: center;
   position: relative;
@@ -1887,7 +1890,7 @@ footer {
 
 footer a,
 footer a:visited {
-  color: #525252;
+  color: #fedd32;
 }
 footer a:hover,
 footer a:focus {
@@ -1912,7 +1915,7 @@ footer .copyright li:before {
   content: "\2022";
   padding-left: 10px;
   padding-right: 10px;
-  color: #095153;
+  color: #fedd32;
 }
 footer .copyright li:first-child:before {
   display: none;
