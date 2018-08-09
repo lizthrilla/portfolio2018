@@ -1953,7 +1953,7 @@ footer .social li:first-child {
   display: block;
   width: 60px;
   height: 60px;
-  background-color: #525252;
+  background-color: #fedd32;
 
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -1967,7 +1967,8 @@ footer .social li:first-child {
   border-radius: 100%;
 }
 #go-top a:hover {
-  background-color: #0f9095;
+  background-color: #fedd32; 
+  color: #1db5cb;
 }
 
 

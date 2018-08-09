@@ -18,7 +18,7 @@ const Portfolio = () => (
         >
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="https://ryma.herokuapp.com/" title="Ryma - Hospitality Hackathon">
+              <a href="https://ryma.herokuapp.com/" target="_blank" title="Ryma - Hospitality Hackathon">
                 <img alt="" src={Ryma} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -36,7 +36,7 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="http://tarot.lizthrilla.surge.sh/" title="Tarot with Sybil">
+              <a href="http://tarot.lizthrilla.surge.sh/" target="_blank" title="Tarot with Sybil">
                 <img alt="" src={Tarot} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -56,7 +56,7 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="http://rain.lizthrilla.surge.sh" title="Make it Rain">
+              <a href="http://rain.lizthrilla.surge.sh" target="_blank" title="Make it Rain">
                 <img alt="" src={Rain} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -74,7 +74,7 @@ const Portfolio = () => (
 
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <a href="http://memory.lizthrilla.surge.sh" title="Memory">
+              <a href="http://memory.lizthrilla.surge.sh" target="_blank" title="Memory">
                 <img alt="" src={Memory} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">

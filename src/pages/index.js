@@ -9,6 +9,8 @@ import Resume from "../components/Resume";
 import Portfolio from "../components/Portfolio";
 // import Testimonials from "../components/Testimonials";
 import Footer from "../components/Footer";
+import Organizations from "../components/Organizations";
+
 
 const IndexPage = () => (
   <div>
@@ -16,6 +18,7 @@ const IndexPage = () => (
     <About />
     <Resume />
     <Portfolio />
+    <Organizations />
     <Footer />
   </div>
 );

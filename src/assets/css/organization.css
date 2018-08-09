@@ -1,0 +1,35 @@
+#organizations {
+    align-items: center;
+    background: #2b2b2b;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.org-title {
+    text-align: center;
+    color: #fff;
+}
+
+.org-row {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+.org-col {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+}
+.org-img {
+    height: 200px;
+    width: 200px;
+}
