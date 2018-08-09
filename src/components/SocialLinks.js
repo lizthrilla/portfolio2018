@@ -10,17 +10,17 @@ import {
 const SocialLinks = () => (
   <ul className="social">
   <li>
-    <a href="https://www.linkedin.com/in/elizabethtiller/">
+    <a href="https://www.linkedin.com/in/elizabethtiller/" target="_blank">
       <FaLinkedin />
     </a>
   </li>
     <li>
-      <a href="https://twitter.com/liztiller">
+      <a href="https://twitter.com/liztiller" target="_blank">
         <FaTwitter />
       </a>
     </li>
     <li>
-      <a href="https://github.com/lizthrilla">
+      <a href="https://github.com/lizthrilla" target="_blank">
         <FaGithub />
       </a>
     </li>
