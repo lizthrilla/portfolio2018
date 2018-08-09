@@ -8,6 +8,7 @@ const Banner = () => (
       <h3>
         I'm a Tampa based <span>Javascript Developer</span>,
         <span> community organizer,</span> and <span> educator</span> currently working in react native and helping to teach the next generation of developers. 
+        <br />
         Let's
         <a className="smoothscroll" href="#about">
           {" "}
