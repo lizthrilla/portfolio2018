@@ -32,7 +32,7 @@ const Organizations = () => (
                     <a href="https://www.suncoast.io" target="blank">
                         <img className="org-img" src={SDG} alt="Suncoast Developers Guild logo"/>
                     </a>
-                    <p>Developer Avocado</p>
+                    <p>Developer Avocado &#x1f951;</p>
                 </div>
             </div>
         </div>
