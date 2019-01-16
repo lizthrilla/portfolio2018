@@ -33,7 +33,7 @@ const Skills = () => (
           </li>
           <li>
             <span className="bar-expand rollerskating" />
-            <em>Roller Skating</em>
+            <em>Belly dance</em>
           </li>
         </ul>
         <p>

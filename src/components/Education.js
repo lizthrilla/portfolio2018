@@ -58,6 +58,20 @@ const Education = () => (
           </p>
         </div>
       </div>
+      <div className="row item">
+        <div className="twelve columns">
+          <h3>Pitzer College - Claremont Consortium</h3>
+          <p className="info">
+            Bachelors in Media Studies (Film Production) and Theater
+            <span>&bull;</span>
+            <em className="date">May 2007</em>
+          </p>
+
+          <p>
+            Senior Media Project: "She's Revamped" a rewriting of Robert Iscove's She's All That (1999) combining video and performance art with gender/sexuality theory and Boal's Theatre of the Oppressed.
+          </p>
+        </div>
+      </div>
     </div>
   </div>
 );
