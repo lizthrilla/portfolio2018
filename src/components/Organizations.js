@@ -14,20 +14,20 @@ const Organizations = () => (
                     <a href="https://suncoast.io/jr" target="blank">
                         <img className="org-img" src={SDGjr} alt="logo for Suncoast Developers Guild Jr"/>
                     </a>
-                    <p>Suncoast Developers Guild Jr</p>
+                    <p>Suncoast Developers Guild Jr - Instructor and Organizer</p>
                 </div>
                 <div className="org-col">
                     <a href="https://www.hiretechladies.com" target="blank">
                         <img className="org-img" src={TechLadies} alt="Tech Ladies Logo and link"/>
                     </a>
-                    <p>Tech Ladies</p>
+                    <p>Tech Ladies - City Organizer</p>
                 </div>
-                <div className="org-col">
+                {/* <div className="org-col">
                     <a href="https://www.girldevelopit.com" target="blank">
                         <img className="org-img" src={GDI} alt="Girl Develop It logo"/>
                     </a>
                     <p>Girl Develop It</p>
-                </div>
+                </div> */}
             </div>
         </div>
     </section>

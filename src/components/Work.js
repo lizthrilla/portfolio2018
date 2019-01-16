@@ -19,7 +19,10 @@ const Work = () => (
           </p>
 
           <p>
-            Currently building a react native ordering app and lead developer on the current website.
+            I recently finished work on a React Native mobile ordering app using Redux (Reselect, Redux-Saga), GraphQL, Jenkins, and Expo for a Fortune 500 company. During this project, I was in charge of our daily builds and I worked closely with the lead developer and QA team to ensure continuous delivery of our product to our clients. 
+          </p>
+          <p>
+            I also lead the development of the rebranded company website and the transition from a GatsbyJS and GraphCMS static site to a Wordpress site. On this project, I worked closely with the designers and VP of UX and Innovation to develop the site, transition the site to Wordpress, and trained them to continue their own work on the new site.
           </p>
         </div>
       </div>
