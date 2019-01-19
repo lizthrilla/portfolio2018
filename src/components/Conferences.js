@@ -32,7 +32,7 @@ const Conferences = () => (
           <h3><a href="https://startupweektampabay.com/" target="_blank">Startup Week Tampa Bay 2019</a></h3>
           <p className="info">
             <a href="https://sched.co/KBl9">
-              Inclusive Design and Development with Web Accessibility Panel
+              Panel: "Inclusive Design and Development with Web Accessibility Panel"
             </a>
             <span>&bull;</span>
             <em className="date">February 4, 2019</em>
