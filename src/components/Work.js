@@ -36,7 +36,7 @@ const Work = () => (
           </p>
 
           <p>
-            <a href="www.americanstage.org" target="_blank"> American Stage</a>: Cleaned up and rebuilt parts of the CSS and PHP of their Wordpress site and assisted with the relaunch on new servers.
+            <a href="www.americanstage.org" target="_blank"> American Stage</a>: Cleaned up and rebuilt parts of the CSS and PHP of their Wordpress site. Assisted with the relaunch on new servers.
           </p>
           <p>
             <a href="www.denisetiller.com" target="_blank"> Denise Tiller</a>: Designed, built, launched and mantain a website and blog for a mystery writer.
