@@ -26,6 +26,23 @@ const Work = () => (
           </p>
         </div>
       </div>
+      <div className="row item">
+        <div className="twelve columns">
+          <h3>Freelance Developer</h3>
+          <p className="info">
+            Fullstack Developer
+            <span>&bull;</span>
+            <em className="date">February 2017 - Present</em>
+          </p>
+
+          <p>
+            <a href="http://americanstage.org/" target="_blank"> American Stage</a>: Cleaned up and rebuilt parts of the CSS and PHP of their Wordpress site. Assisted with the relaunch on new servers.
+          </p>
+          {/* <p>
+            <a href="http://www.denisetiller.com" target="_blank"> Denise Tiller</a>: Designed, built, launched and mantain a website and blog for a mystery writer.
+          </p> */}
+        </div>
+      </div>
 
       <div className="row item">
         <div className="twelve columns">
