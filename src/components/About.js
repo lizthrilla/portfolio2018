@@ -25,7 +25,7 @@ const About = () => (
           </div>
           <div className="columns download">
             <p>
-              <a href="https://docs.google.com/document/d/1FRpyAiv8_Us_rYCOoPhFNJ7Fer7E2hJVHkhzYWKea7g/edit?usp=sharing" className="button">
+              <a href="https://docs.google.com/document/d/e/2PACX-1vR3J1xYbW_JKaTVrWKs7XuoUktAVnOyK66ji_ZUXk_DzdY2eAs-jafKBXVzqtPgaj4GvZsBKmWWkGxC/pub" className="button">
                 <FaCloudDownload /> Download Resume
               </a>
             </p>
