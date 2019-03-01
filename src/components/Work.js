@@ -7,7 +7,7 @@ const Work = () => (
         <span>Work</span>
       </h1>
     </div>
-
+    {/* Mad Mobile */}
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
@@ -26,6 +26,23 @@ const Work = () => (
           </p>
         </div>
       </div>
+      {/* SDG */}
+      <div className="row item">
+        <div className="twelve columns">
+          <h3>Suncoast Developers Guild</h3>
+          <p className="info">
+            Part-Time Instructor
+            <span>&bull;</span>
+            <em className="date">March 2019 - Present</em>
+          </p>
+
+          <p>
+            Instructor for the part-time <a href="https://suncoast.io/academy/part-time/test-drive/">Web Development Test Drive</a> and <a href="https://suncoast.io/academy/part-time/react-i">React I: Building Interactive Websites</a> courses.  Class meets for 2 hours twice a week over the coures of 6 weeks.  These programs are developed for those curious about web development, and for experienced developers to skill up.
+          </p>
+        </div>
+      </div>
+
+       {/* Freeland */}
       <div className="row item">
         <div className="twelve columns">
           <h3>Freelance Developer</h3>
@@ -44,6 +61,7 @@ const Work = () => (
         </div>
       </div>
 
+       {/* DCorp */}
       <div className="row item">
         <div className="twelve columns">
           <h3>Daniels Corporation</h3>

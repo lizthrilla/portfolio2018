@@ -4,6 +4,9 @@ import "../assets/css/organization.css";
 import SDGjr from "../assets/images/sdgjr.svg";
 import TechLadies from "../assets/images/techladies.png";
 import SDG from "../assets/images/sdglogo.svg";
+import TechNetwork from "../assets/images/womens-tech-network-logo-square.png";
+
+const TBTechNetwork = "Tampa Bay Women's Tech Network";
 
 const Organizations = () => (
     <section id="organizations">
@@ -22,12 +25,10 @@ const Organizations = () => (
                     </a>
                     <p>City Organizer</p>
                 </div>
-                {/* <div className="org-col">
-                    <a href="https://www.girldevelopit.com" target="blank">
-                        <img className="org-img" src={GDI} alt="Girl Develop It logo"/>
-                    </a>
-                    <p>Girl Develop It</p>
-                </div> */}
+                <div className="org-col">
+                    <img className="org-img" src={TechNetwork} alt="Tampa Bay Women's Tech Network"/>
+                    <p className="techNetwork">Organizer</p>
+                </div>
                 <div className="org-col">
                     <a href="https://www.suncoast.io" target="blank">
                         <img className="org-img" src={SDG} alt="Suncoast Developers Guild logo"/>

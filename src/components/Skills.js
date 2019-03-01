@@ -29,7 +29,7 @@ const Skills = () => (
           </li>
           <li>
             <span className="bar-expand wordpress" />
-            <em>Wordpress</em>
+            <em>PHP</em>
           </li>
           <li>
             <span className="bar-expand rollerskating" />
@@ -37,7 +37,7 @@ const Skills = () => (
           </li>
         </ul>
         <p>
-          Other skills include: Ruby, Rails, Coldfusion, SQL, Ubuntu and Microsoft servers and basic photoshop skills.
+          Other skills include: Ruby, Rails, Coldfusion, SQL, Ubuntu and Microsoft servers, project management, instruction/education, curriculum planning, and basic photoshop skills.
         </p>
 
       </div>
