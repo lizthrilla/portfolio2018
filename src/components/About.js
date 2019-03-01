@@ -12,7 +12,7 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          I am a recovering film academic turned javascript developer and the current Tampa Bay City Organizer for Tech Ladies and co-organizer of Suncoast Developers Guild Jr, which provides free kids coding classes. I finished the front end engineering program at The Iron Yard in February 2017 and I am passionate about web accessibility, over analyzing movies, my cats, and bellydance.
+          I am a recovering film academic turned JavaScript developer and the current Tampa Bay City Organizer for Tech Ladies and co-organizer of Suncoast Developers Guild Jr, which provides free kids coding classes. I finished the front end engineering program at The Iron Yard in February 2017 and I am passionate about web accessibility, over analyzing movies, my cats, and bellydance.
         </p>
         <div className="row">
           <div className="columns contact-details">
