@@ -37,7 +37,7 @@ const Work = () => (
           </p>
 
           <p>
-            Instructor for the part-time <a href="https://suncoast.io/academy/part-time/test-drive/">Web Development Test Drive</a> and <a href="https://suncoast.io/academy/part-time/react-i">React I: Building Interactive Websites</a> courses.  Class meets for 2 hours twice a week over the coures of 6 weeks.  These programs are developed for those curious about web development, and for experienced developers to skill up.
+            Instructor for the part-time <a href="https://suncoast.io/academy/part-time/test-drive/">Web Development Test Drive</a> and <a href="https://suncoast.io/academy/part-time/react-i">React I: Building Interactive Websites</a> courses.  Class meets for 2 hours twice a week over the course of 6 weeks.  These programs are developed for those curious about web development, and for experienced developers to skill up.
           </p>
         </div>
       </div>
