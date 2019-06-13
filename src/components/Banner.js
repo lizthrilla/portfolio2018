@@ -7,14 +7,14 @@ const Banner = () => (
       <h1 className="responsive-headline">Liz Tiller</h1>
       <h3>
         I'm a Tampa based <span>Developer</span>,
-        <span> community organizer,</span> and <span> educator</span> currently working in React and helping to teach the next generation of developers. 
+        <span> community organizer,</span> and <span> educator</span>, who is passionate about front end development and teaching the next generation of developers. 
         <br />
         Let's
         <a className="smoothscroll" href="#about">
           {" "}
           start scrolling
         </a>{" "}
-        and learn more
+        to learn more
         <a className="smoothscroll" href="#about">
           {" "}
           about me

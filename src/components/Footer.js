@@ -17,7 +17,7 @@ const Footer = () => (
             </a>
           </li>
           <li>
-            Developed in React ⚛️ by{" "}
+            Hacked in React ⚛️ by{" "}
             {/* <a href="http://www.amanhimself.me">Aman Mittal</a> */} Liz Tiller
           </li>
         </ul>

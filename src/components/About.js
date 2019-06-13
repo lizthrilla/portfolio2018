@@ -12,7 +12,13 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          I am a recovering film academic turned javascript developer and the current Tampa Bay City Organizer for Tech Ladies and co-organizer of Suncoast Developers Guild Jr, which provides free kids coding classes. I finished the front end engineering program at The Iron Yard in February 2017 and I am passionate about web accessibility, over analyzing movies, my cats, and bellydance.
+          I am a recovering film academic turned developer, part-time instructor for the Academy at Suncoast Developers Guild, the current Tampa Bay City Organizer for Tech Ladies, organizer for the Tampa Bay Women's Tech Network,  and co-organizer of Suncoast Developers Guild Jr, which provides free kids coding classes.
+        </p>
+        <p>
+          Growing up, my parents stressed the importance of math and science.  As actuaries, they told me that math was a way of thinking and eventually I would transcend number crunching.  Instead, I ran towards film and theater in an effort to rebel.  After nearly a decade in academia, I found myself finishing the front end engineering program at The Iron Yard in 2017.  I may have taken the long way round, but I'm here now!
+        </p>
+        <p>
+          I am passionate about web accessibility, over analyzing movies, my <a href="https://www.instagram.com/thegreatgizmodo/">cats </a>, my <a href="http://michaelenash.com">husband</a> and <a href="https://www.midnightlotusdance.com/">belly dance</a>.
         </p>
         <div className="row">
           <div className="columns contact-details">
