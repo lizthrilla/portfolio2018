@@ -17,7 +17,12 @@ const Footer = () => (
             </a>
           </li>
           <li>
+<<<<<<< HEAD
             Developed in React ⚛️ by{" "} Liz Tiller
+=======
+            Hacked in React ⚛️ by{" "}
+            {/* <a href="http://www.amanhimself.me">Aman Mittal</a> */} Liz Tiller
+>>>>>>> develop
           </li>
         </ul>
       </div>

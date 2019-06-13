@@ -7,7 +7,19 @@ const Skills = () => (
         <span>Skills</span>
       </h1>
     </div>
+    <div className="three columns main-col">
+        <h3>Strong</h3> 
+        <ul>
+          <li>Javascript</li>
+          <li>React</li>
+          <li>React Native</li>
+          <li>CSS/HTML</li>
+          <li>Git</li>
+          <li>Gatsby.JS</li>
+        </ul>  
+    </div>
 
+<<<<<<< HEAD
     <div className="nine columns main-col">
       <div className="bars">
         <ul className="skills">
@@ -39,8 +51,33 @@ const Skills = () => (
         <p>
           Other skills include: Ruby, Rails, Coldfusion, SQL, Ubuntu and Microsoft servers, project management, instruction/education, curriculum planning, and basic photoshop skills.
         </p>
+=======
+    <div className="three columns main-col">
+      <h3>Mid-Level</h3> 
+      <ul>
+        <li>Redux</li>
+        <li>Ruby</li>
+        <li>Rails</li>
+        <li>Bash</li>
+        <li>Belly dance</li>
+      </ul>  
+    </div>
+>>>>>>> develop
 
-      </div>
+    <div className="three columns main-col">
+      <h3>Developing</h3> 
+      <ul>
+        <li>Angular</li>
+        <li>Python</li>
+        <li>PHP</li>
+        <li>WordPress</li>
+      </ul>  
+    </div>
+
+    <div className="nine columns main-col">
+      <p>
+        Other skills include: Coldfusion, SQL, Ubuntu and Microsoft servers and basic photoshop skills.
+      </p>
     </div>
   </div>
 );
