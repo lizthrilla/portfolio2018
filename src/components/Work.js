@@ -11,7 +11,27 @@ const Work = () => (
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
-          <h3>Mad Mobile</h3>
+          <h3><a href="https://www.dxc.technology/">DXC Technology</a></h3>
+          <p className="info">
+            Professional Software Engineer
+            <span>&bull;</span>
+            <em className="date">May 2019 - Present</em>
+          </p>
+
+          <p>
+            Developing custom applications for clients; utilizing React, Redux, Angular, and Python.
+          </p>
+          <p>
+            DXC Technology is the world's leading independent, end-to-end IT services company, serving nearly 6,000 private and public-sector clients from a diverse array of industries across 70 countries. The company's technology independence, global talent and extensive partner network deliver transformative digital offerings and solutions that help clients harness the power of innovation to thrive on change. 
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div className="nine columns main-col">
+      <div className="row item">
+        <div className="twelve columns">
+          <h3><a href="https://www.madmobile.com">Mad Mobile</a></h3>
           <p className="info">
             Javascript Developer
             <span>&bull;</span>
@@ -29,7 +49,7 @@ const Work = () => (
 
       <div className="row item">
         <div className="twelve columns">
-          <h3>Daniels Corporation</h3>
+          <h3><a href="https://www.danielscorporation.com/">Daniels Corporation</a></h3>
           <p className="info">
             Fullstack Developer
             <span>&bull;</span>

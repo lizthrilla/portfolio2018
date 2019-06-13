@@ -12,6 +12,26 @@ const Conferences = () => (
       <div className="row item">
         <div className="twelve columns">
           <h3>
+            <a href="https://infinite.red/ChainReactConf/speakers" target="_blank">
+                Chain React 2019 - Portland
+            </a>
+          </h3>
+          <p className="info">
+            Talk: "Why Can't We Be Friends": Lightning Talk
+            <span>&bull;</span>
+            <em className="date">July 11, 2019</em>
+          </p>
+          <p>
+            Discussing the short comings of React Native for android development and ways my team worked around it.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div className="nine columns main-col">
+      <div className="row item">
+        <div className="twelve columns">
+          <h3>
             <a href="https://devfestflorida.org/" target="_blank">
                 DevFest Florida 2019 - Orlando
             </a>

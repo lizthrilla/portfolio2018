@@ -6,8 +6,8 @@ const Banner = () => (
     <div className="banner-text">
       <h1 className="responsive-headline">Liz Tiller</h1>
       <h3>
-        I'm a Tampa based <span>Javascript Developer</span>,
-        <span> community organizer,</span> and <span> educator</span> currently working in react native and helping to teach the next generation of developers. 
+        I'm a Tampa based <span>Developer</span>,
+        <span> community organizer,</span> and <span> educator</span> currently working in React and helping to teach the next generation of developers. 
         <br />
         Let's
         <a className="smoothscroll" href="#about">
