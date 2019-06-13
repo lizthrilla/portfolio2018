@@ -19,39 +19,6 @@ const Skills = () => (
         </ul>  
     </div>
 
-<<<<<<< HEAD
-    <div className="nine columns main-col">
-      <div className="bars">
-        <ul className="skills">
-          <li>
-            <span className="bar-expand react" />
-            <em>React</em>
-          </li>
-          <li>
-            <span className="bar-expand reactNative" />
-            <em>React Native</em>
-          </li>
-          <li>
-            <span className="bar-expand javascript" />
-            <em>Javascript</em>
-          </li>
-          <li>
-            <span className="bar-expand html5" />
-            <em>CSS/HTML5</em>
-          </li>
-          <li>
-            <span className="bar-expand wordpress" />
-            <em>PHP</em>
-          </li>
-          <li>
-            <span className="bar-expand rollerskating" />
-            <em>Belly dance</em>
-          </li>
-        </ul>
-        <p>
-          Other skills include: Ruby, Rails, Coldfusion, SQL, Ubuntu and Microsoft servers, project management, instruction/education, curriculum planning, and basic photoshop skills.
-        </p>
-=======
     <div className="three columns main-col">
       <h3>Mid-Level</h3> 
       <ul>
@@ -62,7 +29,6 @@ const Skills = () => (
         <li>Belly dance</li>
       </ul>  
     </div>
->>>>>>> develop
 
     <div className="three columns main-col">
       <h3>Developing</h3> 
