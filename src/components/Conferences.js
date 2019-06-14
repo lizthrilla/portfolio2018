@@ -22,7 +22,7 @@ const Conferences = () => (
             <em className="date">July 11, 2019</em>
           </p>
           <p>
-            Discussing the short comings of React Native for android development and ways my team worked around it.
+            React Native is advertised as a framework for developing native apps with JavaScript. However, developing Android apps requires more effort. This talk will look at the ways in which my team and I learned, sometimes the hard way, how to develop a React Native app for Android, as well as my experience as a JavaScript developer being thrust into the native world.
           </p>
         </div>
       </div>
