@@ -23,6 +23,7 @@ const Skills = () => (
       <h3>Mid-Level</h3> 
       <ul>
         <li>Redux</li>
+        <li>GraphQL</li>
         <li>Ruby</li>
         <li>Rails</li>
         <li>Bash</li>
@@ -33,6 +34,7 @@ const Skills = () => (
     <div className="three columns main-col">
       <h3>Developing</h3> 
       <ul>
+        <li><a href="https://codesandbox.io/s/6ln6z">Vue</a></li>
         <li>Angular</li>
         <li>Python</li>
         <li>PHP</li>
