@@ -13,13 +13,16 @@ const Conferences = () => (
         <div className="twelve columns">
           <h3>
             <a href="https://infinite.red/ChainReactConf/speakers" target="_blank">
-                Chain React 2019 - Portland
+                Chain React 2019
             </a>
           </h3>
+          <h4>Portland, OR</h4>
           <p className="info">
-            Talk: "Why Can't We Be Friends": Lightning Talk
-            <span>&bull;</span>
-            <em className="date">July 11, 2019</em>
+            <a href="https://www.youtube.com/watch?v=BRLkfXtRIKI&list=PLFHvL21g9bk2bTWTCP1BueiiIz8q258z9&index=18&t=0s" target="_blank"> 
+              Talk: "Why Can't We Be Friends": Lightning Talk
+              <span>&bull;</span>
+              <em className="date">July 11, 2019</em>
+            </a>
           </p>
           <p>
             React Native is advertised as a framework for developing native apps with JavaScript. However, developing Android apps requires more effort. This talk will look at the ways in which my team and I learned, sometimes the hard way, how to develop a React Native app for Android, as well as my experience as a JavaScript developer being thrust into the native world.
@@ -33,9 +36,12 @@ const Conferences = () => (
         <div className="twelve columns">
           <h3>
             <a href="https://devfestflorida.org/" target="_blank">
-                DevFest Florida 2019 - Orlando
+                DevFest Florida 2019
             </a>
           </h3>
+          <h4>
+            Orlando, FL
+          </h4>
           <p className="info">
             Talk: "Dispatches from React Native"
             <span>&bull;</span>
@@ -49,7 +55,10 @@ const Conferences = () => (
 
       <div className="row item">
         <div className="twelve columns">
-          <h3><a href="https://startupweektampabay.com/" target="_blank">Startup Week Tampa Bay 2019</a></h3>
+          <h3>
+            <a href="https://startupweektampabay.com/" target="_blank">Startup Week Tampa Bay 2019</a>
+          </h3>
+          <h4>St Petersburg, FL</h4>
           <p className="info">
             <a href="https://sched.co/KBl9">
               Panel: "Inclusive Design and Development with Web Accessibility Panel"
@@ -66,7 +75,12 @@ const Conferences = () => (
 
       <div className="row item">
         <div className="twelve columns">
-          <h3><a href="https://www.saintleo.edu/women-in-data-science-conference" target="_blank">Women in Data + Science Conference - Saint Leo University</a></h3>
+          <h3>
+            <a href="https://www.saintleo.edu/women-in-data-science-conference" target="_blank">Women in Data + Science Conference </a>
+          </h3>
+          <h4>
+            Saint Leo University - San Antonio, FL
+          </h4>
           <p className="info">
             Panel: "Get Your Code On"
             <span>&bull;</span>
