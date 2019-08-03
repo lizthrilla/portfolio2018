@@ -12,17 +12,22 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          I am a recovering film academic turned developer, part-time instructor for the Academy at Suncoast Developers Guild, the current Tampa Bay City Organizer for Tech Ladies, organizer for the Tampa Bay Women's Tech Network,  and co-organizer of Suncoast Developers Guild Jr, which provides free kids coding classes.
+          I am a recovering film academic turned developer, part-time instructor
+          for the Academy at Suncoast Developers Guild, the current Tampa Bay
+          City Organizer for Tech Ladies, organizer for the Tampa Bay Women's
+          Tech Network, and co-organizer of Suncoast Developers Guild Jr, which
+          provides free kids coding classes.
         </p>
         <p>
-          I am passionate about web accessibility, over analyzing movies, my <a href="https://www.instagram.com/thegreatgizmodo/">cats </a>, my <a href="http://michaelenash.com">husband</a> and <a href="https://www.midnightlotusdance.com/">belly dance</a>.
+          I am passionate about web accessibility, over analyzing movies, my
+          <a href="https://www.instagram.com/thegreatgizmodo/"> cats </a>, my
+          <a href="http://michaelenash.com"> husband</a> and
+          <a href="https://www.midnightlotusdance.com/"> belly dance</a>.
         </p>
         <div className="row">
           <div className="columns contact-details">
             <h2>Contact Details</h2>
             <p className="address">
-              <span>Liz Tiller</span>
-              <br />
               <span>elizabeth.tiller@gmail.com</span>
             </p>
           </div>
