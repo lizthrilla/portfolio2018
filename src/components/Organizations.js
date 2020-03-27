@@ -1,11 +1,7 @@
 import React from "react";
 import "../assets/css/organization.css";
 
-import SDGjr from "../assets/images/sdgjr.svg";
-import TechLadies from "../assets/images/techladies.png";
-import SDG from "../assets/images/sdglogo.svg";
-import TechNetwork from "../assets/images/womens-tech-network-logo-square.png";
-
+import { WWCTampa, TechLadies, SDGjr, SDG, TechNetwork } from '../assets/logos/index.js'
 const TBTechNetwork = "Tampa Bay Women's Tech Network";
 
 const Organizations = () => (
@@ -23,7 +19,7 @@ const Organizations = () => (
                     <a href="https://www.hiretechladies.com" target="blank">
                         <img className="org-img" src={TechLadies} alt="Tech Ladies Logo and link"/>
                     </a>
-                    <p>City Organizer</p>
+                    <p>Former City Organizer</p>
                 </div>
                 <div className="org-col">
                     <img className="org-img" src={TechNetwork} alt="Tampa Bay Women's Tech Network"/>
@@ -34,6 +30,12 @@ const Organizations = () => (
                         <img className="org-img" src={SDG} alt="Suncoast Developers Guild logo"/>
                     </a>
                     <p>Developer Avocado &#x1f951;</p>
+                </div>
+                <div className="org-col">
+                    <a href="https://www.womenwhocode.com/tampa" target="blank">
+                        <img className="org-img" src={WWCTampa} alt="Suncoast Developers Guild logo"/>
+                    </a>
+                    <p>Member & Speaker</p>
                 </div>
             </div>
         </div>
