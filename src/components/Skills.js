@@ -37,8 +37,9 @@ const Skills = () => (
         <li><a href="https://codesandbox.io/s/6ln6z">Vue</a></li>
         <li>Angular</li>
         <li>Python</li>
-        <li>PHP</li>
+        <li>C#</li>
         <li>WordPress</li>
+        <li>.Net</li>
       </ul>  
     </div>
 
