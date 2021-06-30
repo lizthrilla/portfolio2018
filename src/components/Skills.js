@@ -16,6 +16,7 @@ const Skills = () => (
           <li>CSS/HTML</li>
           <li>Git</li>
           <li>Gatsby.JS</li>
+          <li>MobX</li>
         </ul>  
     </div>
 

@@ -9,6 +9,22 @@ const Conferences = () => (
     </div>
 
     <div className="nine columns main-col">
+    <div className="row item">
+        <div className="twelve columns">
+          <h3>
+              Women Who Code Tampa
+          </h3>
+          <h4>Tampa, FL</h4>
+          <p className="info">
+            Talk: "How Not to Get Sued: Basic Web Accessibility"
+            <span>&bull;</span>
+            <em className="date">June 2020</em>
+          </p>
+          <p>
+            Web Accessibility is everyone's responsibility.  In this talk, you will learn the basics of web accessibility, how to read the WCAG, and things you can implement immediately in your work.
+          </p>
+        </div>
+      </div>
       <div className="row item">
         <div className="twelve columns">
           <h3>
@@ -16,7 +32,7 @@ const Conferences = () => (
               Women Who Code Connect NYC 2019
             </a>
           </h3>
-          <h4>Portland, OR</h4>
+          <h4>NYC</h4>
           <p className="info">
             Talk: "Why Can't We Be Friends": Lightning Talk
             <span>&bull;</span>

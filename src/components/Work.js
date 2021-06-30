@@ -8,6 +8,18 @@ const Work = () => (
       </h1>
     </div>
     <div className="nine columns main-col">
+      {/* Shogun */}
+      <div className="row item">
+        <div className="twelve columns">
+          <h3><a href="https://www.getshogun.com">Shogun</a></h3>
+          <p className="info">
+            React Engineer
+            <span>&bull;</span>
+            <em className="date">June 2021 - Present</em>
+          </p>
+          <p>Shogun is an ecommerce experience platform empowering brands to drive higher conversions, revenue, and brand loyalty. Our products Shogun Page Builder and Shogun Frontend help teams build and optimize their online stores to deliver exceptional experiences. Our products integrate with ecommerce platforms like Shopify and BigCommerce, and our 18,000 customers include Leesa, MVMT, Timbuk2, and Chubbies.</p>
+        </div>
+      </div>
        {/* AgileThought */}
        <div className="row item">
         <div className="twelve columns">
@@ -15,9 +27,9 @@ const Work = () => (
           <p className="info">
             Consultant
             <span>&bull;</span>
-            <em className="date">January 2020 - Present</em>
+            <em className="date">January 2020 - June 2021</em>
           </p>
-          <p>Tecnology consultant specializing in the Front End developlment and Azure</p>
+          <p>Technology consultant specializing in the Front End development and Azure</p>
           <p>Member of the Development Community of Practice team, which works to create learning opportunities for Agile Thought's employees</p>
         </div>
       </div>
@@ -94,7 +106,7 @@ const Work = () => (
           </p>
 
           <p>
-            I recently finished work on a React Native mobile ordering app using
+            Worked on a React Native mobile ordering app using
             Redux (Reselect, Redux-Saga), GraphQL, Jenkins, and Expo for a
             Fortune 500 company. During this project, I was in charge of our
             daily builds and I worked closely with the lead developer and QA
@@ -108,30 +120,6 @@ const Work = () => (
             Wordpress, and trained them to continue their own work on the new
             site.
           </p>
-        </div>
-      </div>
-
-      {/* Freelance */}
-      <div className="row item">
-        <div className="twelve columns">
-          <h3>Freelance Developer</h3>
-          <p className="info">
-            Fullstack Developer
-            <span>&bull;</span>
-            <em className="date">February 2017 - Present</em>
-          </p>
-
-          <p>
-            <a href="http://americanstage.org/" target="_blank">
-              {" "}
-              American Stage
-            </a>
-            : Cleaned up and rebuilt parts of the CSS and PHP of their Wordpress
-            site. Assisted with the relaunch on new servers.
-          </p>
-          {/* <p>
-            <a href="http://www.denisetiller.com" target="_blank"> Denise Tiller</a>: Designed, built, launched and mantain a website and blog for a mystery writer.
-          </p> */}
         </div>
       </div>
 

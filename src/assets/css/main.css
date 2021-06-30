@@ -141,9 +141,9 @@ body {
    background: #1db5cb;
    font-family: 'opensans-regular', sans-serif;
    font-weight: normal;
-   font-size: 15px;
+   font-size: 16px;
    line-height: 30px;
-    color: #838C95;
+    color: #1d1f1f;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -1031,12 +1031,12 @@ ul#nav li a:hover {
 
 #about h2 {
   font: 22px/30px "opensans-bold", sans-serif;
-  color: #fff;
+  color: #fedd32;
   margin-bottom: 12px;
 }
 #about p {
   line-height: 30px;
-  color: #7a7a7a;
+  color: #fff;
 }
 #about .profile-pic {
   position: relative;
@@ -1316,7 +1316,7 @@ ul#nav li a:hover {
   letter-spacing: 1px;
   text-align: center;
   margin-bottom: 48px;
-  color: #95a3a3;
+  color: #1d1f1f;
 }
 
 /* Portfolio Content */
