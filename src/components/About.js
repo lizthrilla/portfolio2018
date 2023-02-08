@@ -12,11 +12,11 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          I am a recovering film academic turned developer, part-time instructor
+          I am a recovering film academic turned developer and engineering manager. A part-time instructor
           for the Academy at Suncoast Developers Guild, current Co-Director for Women Who Code Tampa, former Tampa Bay
           City Organizer for Tech Ladies, organizer for the Tampa Bay Women's
           Tech Network, and former instructor and co-organizer of Suncoast Developers Guild Jr, which
-          provides free kids coding classes.
+          provided free kids coding classes.
         </p>
         <p>
           I am passionate about web accessibility, over analyzing movies, my

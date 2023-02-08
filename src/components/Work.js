@@ -8,6 +8,26 @@ const Work = () => (
       </h1>
     </div>
     <div className="nine columns main-col">
+      {/* Kin */}
+      <div className="row item">
+        <div className="twelve columns">
+          <h3><a href="https://www.kin.com">Kin Insurance</a></h3>
+          <p className="info">
+            Associate Engineering Manager
+            <span>&bull;</span>
+            <em className="date">December 2022 - Present</em>
+          </p>
+          <p>Leading and coordinating work for a small team to drive improvements for our Electronic First Notification of Loss application. Responsible for delivery of the product. Actively coaching and direct reports in their career growth.</p>
+          <p className="info">
+            Software Engineer
+            <span>&bull;</span>
+            <em className="date">March 2022 - December 2022</em>
+          </p>
+          <p>Worked on the Electronic First Notification of Loss angular application; developed small features, investigated issues, and mentored associate level engineers.</p>
+          <p>Member of the Front End Guild and organized and ran "Kinversations," a weekly engineering meeting where we discuss, share, and collaborate on ideas and projects.</p>
+          <p>Kin’s mission is to reimagine home insurance. Kin is built for the future and prepared to meet its challenges head on while helping our customers do the same through technology and direct-to-consumer model, we provide affordable pricing without compromising coverage, even in areas most impacted by climate change.</p>
+        </div>
+      </div>
       {/* Shogun */}
       <div className="row item">
         <div className="twelve columns">
@@ -15,26 +35,14 @@ const Work = () => (
           <p className="info">
             React Engineer
             <span>&bull;</span>
-            <em className="date">June 2021 - Present</em>
+            <em className="date">June 2021 - March 2022</em>
           </p>
+          <p>Worked on the Shogun Page Builder team to develop new features for our customers.</p>
           <p>Shogun is an ecommerce experience platform empowering brands to drive higher conversions, revenue, and brand loyalty. Our products Shogun Page Builder and Shogun Frontend help teams build and optimize their online stores to deliver exceptional experiences. Our products integrate with ecommerce platforms like Shopify and BigCommerce, and our 18,000 customers include Leesa, MVMT, Timbuk2, and Chubbies.</p>
         </div>
       </div>
-       {/* AgileThought */}
+       {/* SDG */}
        <div className="row item">
-        <div className="twelve columns">
-          <h3><a href="https://www.agilethought.com">Agile Thought</a></h3>
-          <p className="info">
-            Consultant
-            <span>&bull;</span>
-            <em className="date">January 2020 - June 2021</em>
-          </p>
-          <p>Technology consultant specializing in the Front End development and Azure</p>
-          <p>Member of the Development Community of Practice team, which works to create learning opportunities for Agile Thought's employees</p>
-        </div>
-      </div>
-      {/* SDG */}
-      <div className="row item">
         <div className="twelve columns">
           <h3>
             <a href="https://www.suncoast.io">Suncoast Developers Guild</a>
@@ -65,6 +73,20 @@ const Work = () => (
           </p>
         </div>
       </div>
+       {/* AgileThought */}
+       <div className="row item">
+        <div className="twelve columns">
+          <h3><a href="https://www.agilethought.com">Agile Thought</a></h3>
+          <p className="info">
+            Consultant
+            <span>&bull;</span>
+            <em className="date">January 2020 - June 2021</em>
+          </p>
+          <p>Technology consultant specializing in the Front End development and Azure</p>
+          <p>Member of the Development Community of Practice team, which works to create learning opportunities for Agile Thought's employees</p>
+        </div>
+      </div>
+      
       {/* DXC TE */}
       <div className="row item">
         <div className="twelve columns">

@@ -8,39 +8,37 @@ const Skills = () => (
       </h1>
     </div>
     <div className="three columns main-col">
-        <h3>Strong</h3> 
+        {/* <h3>Strong</h3>  */}
         <ul>
           <li>Javascript</li>
           <li>React</li>
           <li>React Native</li>
           <li>CSS/HTML</li>
-          <li>Git</li>
+          <li>Angular</li>
           <li>Gatsby.JS</li>
-          <li>MobX</li>
+
         </ul>  
     </div>
 
     <div className="three columns main-col">
-      <h3>Mid-Level</h3> 
+      {/* <h3>Mid-Level</h3>  */}
       <ul>
         <li>Redux</li>
+        <li>MobX</li>
         <li>GraphQL</li>
-        <li>Ruby</li>
-        <li>Rails</li>
         <li>Bash</li>
-        <li>Belly dance</li>
+        <li>Git</li>
       </ul>  
     </div>
 
     <div className="three columns main-col">
-      <h3>Developing</h3> 
+      {/* <h3>Developing</h3>  */}
       <ul>
         <li><a href="https://codesandbox.io/s/6ln6z">Vue</a></li>
-        <li>Angular</li>
-        <li>Python</li>
+        <li>Ruby</li>
+        <li>Rails</li>
         <li>C#</li>
         <li>WordPress</li>
-        <li>.Net</li>
       </ul>  
     </div>
 
