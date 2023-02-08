@@ -33,7 +33,7 @@ const About = () => (
           </div>
           <div className="columns download">
             <p>
-              <a href="https://docs.google.com/document/d/e/2PACX-1vR3J1xYbW_JKaTVrWKs7XuoUktAVnOyK66ji_ZUXk_DzdY2eAs-jafKBXVzqtPgaj4GvZsBKmWWkGxC/pub" target="_blank" className="button">
+              <a href="https://docs.google.com/document/d/e/2PACX-1vStkF9sNdqRInIDtwtJvPkZnNLAbB0c5OQxdAAu4m-NPpXcvhInCKExUEBdeucbr9744krEEt-FE18X/pub" target="_blank" className="button">
                 <FaCloudDownload /> Download Resume
               </a>
             </p>
