@@ -7,17 +7,17 @@ const TBTechNetwork = "Tampa Bay Women's Tech Network";
 const Organizations = () => (
     <section id="organizations">
         <div className="row">
-            <h3 className="org-title">Organizations I work with: </h3>
+            <h3 className="org-title">Organizations I have worked with: </h3>
             <div className="org-row">
             <div className="org-col">
                     <a href="https://www.womenwhocode.com/tampa" target="blank">
                         <img className="org-img" src={WWCTampa} alt="Women Who Code logo"/>
                     </a>
-                    <p>Co-Director</p>
+                    <p>Former Co-Director</p>
                 </div>
                 <div className="org-col">
                     <img className="org-img" src={TechNetwork} alt="Tampa Bay Women's Tech Network"/>
-                    <p className="techNetwork">Organizer</p>
+                    <p className="techNetwork">Former Organizer</p>
                 </div>
                 <div className="org-col">
                     <a href="https://www.suncoast.io" target="blank">

@@ -8,45 +8,38 @@ const Skills = () => (
       </h1>
     </div>
     <div className="three columns main-col">
-        {/* <h3>Strong</h3>  */}
         <ul>
-          <li>Javascript</li>
-          <li>React</li>
-          <li>React Native</li>
-          <li>CSS/HTML</li>
-          <li>Angular</li>
-          <li>Gatsby.JS</li>
-
+          <li>Frontend Development</li>
+          <li>Engineering Management</li>
+          <li>Project Management</li>
+          <li>Leadership</li>
+          <li>Teaching & Mentoring</li>
         </ul>  
     </div>
 
     <div className="three columns main-col">
-      {/* <h3>Mid-Level</h3>  */}
       <ul>
-        <li>Redux</li>
-        <li>MobX</li>
-        <li>GraphQL</li>
-        <li>Bash</li>
-        <li>Git</li>
+        <li>Strategic Planning & Execution</li>
+        <li>Technical Decision Making</li>
+        <li>Cross-functional Collaboration</li>
+        <li>Agile Methodologies</li>
       </ul>  
     </div>
 
     <div className="three columns main-col">
-      {/* <h3>Developing</h3>  */}
       <ul>
-        <li><a href="https://codesandbox.io/s/6ln6z">Vue</a></li>
-        <li>Ruby</li>
-        <li>Rails</li>
-        <li>C#</li>
-        <li>WordPress</li>
+        <li>React & React Native</li>
+        <li>Ruby & Ruby on Rails</li>
+        <li>Angular</li>
+        <li>Community Organizaing</li>
       </ul>  
     </div>
 
-    <div className="nine columns main-col">
+    {/* <div className="nine columns main-col">
       <p>
         Other skills include: Coldfusion, SQL, Ubuntu and Microsoft servers and basic photoshop skills.
       </p>
-    </div>
+    </div> */}
   </div>
 );
 
