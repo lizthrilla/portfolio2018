@@ -13,18 +13,18 @@ const Work = () => (
         <div className="twelve columns">
           <h3><a href="https://www.kin.com">Kin Insurance</a></h3>
           <p className="info">
-            Associate Engineering Manager
+            Engineering Manager
             <span>&bull;</span>
-            <em className="date">December 2022 - Present</em>
+            <em className="date">January 2023 - Present</em>
           </p>
-          <p>Leading and coordinating work for a small team to drive improvements for our Electronic First Notification of Loss application. Responsible for delivery of the product. Actively coaching and direct reports in their career growth.</p>
+          <p>Results-oriented Engineering Manager skilled in delivering high priority and high impact work within crucial time frames. A good communicator and empathic leader, able to effectively collaborate with cross-functional teams to drive successful project outcomes. Committed to fostering a positive and productive work environment to maximize team performance and deliver exceptional results.</p>
+          <p>Established an organization wide Developer Community of Practice, an Engineering Manager Guild, and continues to run "Kinversations," a weekly engineering meeting for cross team collaboration.</p>
           <p className="info">
             Software Engineer
             <span>&bull;</span>
             <em className="date">March 2022 - December 2022</em>
           </p>
           <p>Worked on the Electronic First Notification of Loss angular application; developed small features, investigated issues, and mentored associate level engineers.</p>
-          <p>Member of the Front End Guild and organized and ran "Kinversations," a weekly engineering meeting where we discuss, share, and collaborate on ideas and projects.</p>
           <p>Kin’s mission is to reimagine home insurance. Kin is built for the future and prepared to meet its challenges head on while helping our customers do the same through technology and direct-to-consumer model, we provide affordable pricing without compromising coverage, even in areas most impacted by climate change.</p>
         </div>
       </div>
@@ -50,7 +50,7 @@ const Work = () => (
           <p className="info">
             Part-Time Instructor
             <span>&bull;</span>
-            <em className="date">March 2019 - Present</em>
+            <em className="date">March 2019 - March 2022</em>
           </p>
 
           <p>

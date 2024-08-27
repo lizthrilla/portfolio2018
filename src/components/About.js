@@ -12,11 +12,7 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          I am a recovering film academic turned developer and engineering manager. A part-time instructor
-          for the Academy at Suncoast Developers Guild, current Co-Director for Women Who Code Tampa, former Tampa Bay
-          City Organizer for Tech Ladies, organizer for the Tampa Bay Women's
-          Tech Network, and former instructor and co-organizer of Suncoast Developers Guild Jr, which
-          provided free kids coding classes.
+          I am a recovering film academic turned front end developer and engineering manager. As an empathetic and results-driven Engineering Manager, I am dedicated to cultivating a thriving, cohesive team environment. My approach is holistic, emphasizing the well-being and productivity of every team member. I prioritize building trust, fostering accountability, and encouraging experimentation to unlock our collective potential.
         </p>
         <p>
           I am passionate about web accessibility, over analyzing movies, my
@@ -33,7 +29,7 @@ const About = () => (
           </div>
           <div className="columns download">
             <p>
-              <a href="https://docs.google.com/document/d/e/2PACX-1vStkF9sNdqRInIDtwtJvPkZnNLAbB0c5OQxdAAu4m-NPpXcvhInCKExUEBdeucbr9744krEEt-FE18X/pub" target="_blank" className="button">
+              <a href="https://docs.google.com/document/d/1FF4tocHbjnaTjyb8wSMrnPlDk6XHfcAxAmOHYXyJ3uY/pub" target="_blank" className="button">
                 <FaCloudDownload /> Download Resume
               </a>
             </p>
